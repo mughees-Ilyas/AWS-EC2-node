@@ -7,6 +7,6 @@ Create a simple script, using your language of choice, that creates an AWS EC2 i
 
 ## How to run
 1) install node JS from https://nodejs.org/en/download/
-2) install AWS SDK from npm repository using command "npm install aws-sdk"
+2) install AWS SDK from npm repository using command "npm install aws-sdk".
 3) download the ec2.js from this repository.
 4) run the script as " node /path-to/ec2.js <AWS_ACCESS_KEY_ID>, <AWS_SECRET_ACCESS_KEY>, <AWS_REGION>, <INSTANCE_TYPE>"
