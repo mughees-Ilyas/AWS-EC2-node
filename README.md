@@ -2,7 +2,7 @@
 Launch AWS EC2 instance using nodeJS
 ## Task 
 Create a simple script, using your language of choice, that creates an AWS EC2 instance and outputs its launch time. The script should:
-* Utilize the AWS API
+* Utilize the AWS API.
 * Accept the arguments: AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION, INSTANCE_TYPE
 
 ## How to run
